@@ -51,20 +51,17 @@ EXPERIENCES = [
     "company": "Pratt & Whitney | Raytheon Technologies Corp",
     "details": [
       {
-        "description": "Developed and maintained financial models to support business forecasting and budgeting processes, including revenue, expense, and capital expenditure forecasts",
-      	"inner_details": [
-          "Analyzed financial data to identify trends and provide insights into business performance",
-          "Collaborated with cross-functional teams to develop and implement financial strategies that aligned with business objectives",
-        ]
+        "description": "Developed and maintained capital expenditure models to support business forecasting and budgeting processes, including cash management, capacity needs, and strategic initiatives"
       },
       {
-        "description": "Led team of five developers to design, program, and execute the largest (to-date) Agilepoint application at RTX",
-        "inner_details": [
-          "Modernized capital equipment Access database by converting to SQL Server (2021)",
-          "Established new approval workflows in Sharepoint/Agilepoint and decreased process times by up to 40% (2023)",
-          "Responsible for data sanitization and visualization to help interpret and drive company-wide spend profiles",
-	      ]
+        "description": "Responsible for long range (capital) planning across all P&W Operations module centers"
       },
+      {
+        "description": "Managed strategic supplier relationships and was primary point of escalation for contract enforcement"
+      },
+      {
+        "description": "Led team of ten project managers responsible for executing more than $200M of machine tool procurement per year"
+      }
     ],
   },
   {
@@ -73,16 +70,23 @@ EXPERIENCES = [
     "company": "Pratt & Whitney | Raytheon Technologies Corp",
     "details": [
       {
-        "description": "Oversaw procurement of hundreds of capital equipment projects totaling more than $100M per year",
+        "description": "Established and maintained general equipment standards across P&W, with cross-functional feedback from EH&S, MTS, and Manufacturing Engineering teams"
+      },
+      {
+        "description": "Modernized and established new procurement workflows in AgilePoint and helped reduce process times by up to 20%, or more than 60 days"
+      },
+      {
+        "description": "Led team of five developers to design and program the largest (to-date) AgilePoint application at RTX for capital execution"
+      },
+      {
+        "description": "Oversaw procurement of hundreds of capital equipment projects totaling more than $25M per year",
         "inner_details": [
           "Wrote technical specifications identifying critical processes and guiding design concepts for external vendors",
           "Negotiated commercial (pricing, payment structure) and legal terms and conditions to reduce cost and risk",
           "Validated and led acceptance tests for all projects, including material handling automation equipment, machining and inspection systems, and CNC and welding equipment, etc.",
           "Provided EAR and ITAR classifications for export of sensitive technical data.",
         ]
-      },
-      {"description": "Converted capital equipment Access database to SQL Server with Agilepoint front-end (2021)"},
-      {"description": "Established new quote approval operations workflow in Sharepoint and decreased process time by 50% (2021)"}
+      }
     ],
   },
   {
@@ -207,12 +211,8 @@ SKILLS = [
     "level": "75"
   },
   {
-    "title": "HTML/CSS",
+    "title": "HTML/CSS/JavaScript",
     "level": "95"
-  },
-  {
-    "title": "JavaScript",
-    "level": "90"
   },
   {
     "title": "KiCad",
@@ -235,8 +235,8 @@ SKILLS = [
     "level": "95"
   },
   {
-    "title": "React",
-    "level": "75"
+    "title": "React/Vue",
+    "level": "85"
   },
   {
     "title": "Solidworks",
