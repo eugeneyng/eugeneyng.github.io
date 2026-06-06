@@ -54,13 +54,13 @@ EXPERIENCES = [
         "description": "Developed and maintained capital expenditure models to support business forecasting and budgeting processes, including cash management, capacity needs, and strategic initiatives"
       },
       {
-        "description": "Responsible for long range (capital) planning across all P&W Operations module centers"
+        "description": "Responsible for long range (capital) planning across all P&W Operations, Engineering, and Aftermarket (MRO) module centers, totaling >$500M per year in machine tool, tooling, and facilities spend"
       },
       {
-        "description": "Managed strategic supplier relationships and was primary point of escalation for contract enforcement"
+        "description": "Managed strategic supplier relationships and was primary point of escalation for contract enforcement and disputes. Provided data-driven supplier scorecards and health metrics for machine tools to support negotiations and Master Terms Agreements (MTAs)"
       },
       {
-        "description": "Led team of ten project managers responsible for executing more than $200M of machine tool procurement per year"
+        "description": "Led team of ten project managers responsible for executing more than $200M of machine tool procurement yearly"
       }
     ],
   },
@@ -73,10 +73,10 @@ EXPERIENCES = [
         "description": "Established and maintained general equipment standards across P&W, with cross-functional feedback from EH&S, MTS, and Manufacturing Engineering teams"
       },
       {
-        "description": "Modernized and established new procurement workflows in AgilePoint and helped reduce process times by up to 20%, or more than 60 days"
+        "description": "Modernized and established new procurement workflows in AgilePoint and Appian, and helped reduce process times by up to 20%, or more than 60 days"
       },
       {
-        "description": "Led team of five developers to design and program the largest (to-date) AgilePoint application at RTX for capital execution"
+        "description": "Led team of five developers to design and program the largest (to-date) AgilePoint and Appian application at RTX for capital execution"
       },
       {
         "description": "Oversaw procurement of hundreds of capital equipment projects totaling more than $25M per year",
