@@ -24,7 +24,7 @@ LINKEDIN = "eugeneyng"
 GITHUB = "eugeneyng"
 PDF = "https://raw.githubusercontent.com/eugeneyng/eugeneyng.github.io/pelican/content/docs/resume.pdf"
 
-CAREER_SUMMARY = "I am a technical project manager with 8+ years experience managing fast-paced military and commercial contracts. My company Presque Labs LLC has won or finalized in multiple design challenges (HeroX, YCombinator). In my free time I love to stay active and play volleyball, tennis, and ski."
+CAREER_SUMMARY = "I am a technical operations director with 10 years of experience managing fast-paced military and commercial contracts at Pratt & Whitney, a division of Raytheon Technologies. My company Presque Labs LLC has won or finalized in multiple design challenges (HeroX, YCombinator). In my free time I love to stay active and play volleyball, tennis, and ski."
 
 EDUCATION = [
 	{
